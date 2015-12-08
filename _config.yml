@@ -1,0 +1,28 @@
+name: Todayispresent
+favicon: null
+layout_spectrum: 0.5283500927034765
+typography_spectrum: 0.4611343373544514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20413444191217422
+  lightness: 0.0625
+  saturation: 0.21481739729642868
+  rhythmicContrast: 0.3474592352285981
+purpose: []
